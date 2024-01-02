@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\bin\Debug\odev2 -1200.exe.config
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\bin\Debug\odev2 -1200.exe
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\bin\Debug\odev2 -1200.pdb
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\obj\Debug\odev2 -1200.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\obj\Debug\odev2 -1200.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\obj\Debug\odev2__1200.Form1.resources
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\obj\Debug\odev2__1200.Properties.Resources.resources
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\obj\Debug\odev2 -1200.csproj.GenerateResource.cache
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\obj\Debug\odev2 -1200.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\obj\Debug\odev2 -1200.exe
+C:\Users\User\source\repos\odev2 -1200\odev2 -1200\obj\Debug\odev2 -1200.pdb
